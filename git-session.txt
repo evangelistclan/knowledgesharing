@@ -1,3 +1,28 @@
 Introduction to GIT:
 
-Understanding Git:
+Understanding Github:
+
+An application used for the collaboration among team/s. Source Code Revision (SCR) (SRV). 
+
+Repository: (Work Area)
+
+Organisation: 'evangelistclan' (Members: [member, Admin])
+Repository: 'knowledgesharing'
+
+
+
+Terms:
+ - Repository = Project.
+ - Git CLI (Command Line Interface) .
+
+ Commands:
+ - init (optional).
+
+ - clone
+ - Commit.
+ - Push.
+ - Pull.
+ - Fetch (optional).
+ - add
+ - Checkout
+ - branch
