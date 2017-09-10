@@ -1,13 +1,34 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css">
   <title>Practice</title>
+
+  <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="custom.css">
+
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="custom.js"></script>
 </head>
 <body>
   <div class="container">
     <div class="row">
-      <p class="text-success">I am ready!</p>
+      <div class='col-md-12'>
+        <a class='toggle-me' onClick="javascript:toggle();">Click Me to toggle</a>
+        <div id='heading' class='row'>
+          <div class='col-md-8 guchu'>
+            <ul>
+              <li>Guchu</li>
+              <li>Choko</li>
+            </ul>
+          </div>
+          <div class='col-md-4'>
+            <ul>
+              <li>Om nom</li>
+              <li>Luuz muuz</li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
