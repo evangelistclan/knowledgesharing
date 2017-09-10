@@ -1,0 +1,16 @@
+CMD commands (windows):
+
+cd ==> Change Directory.
+dir ==> View contents of folder.
+mkdir ==> Create folder.
+
+Switch to any Drive (e.g to E: drive) then command is:
+
+E: (enter)
+
+Back from one folder to previous then command is:
+cd .. (enter)
+
+Switch to any folder then command is:
+
+cd [folder name] (enter)
